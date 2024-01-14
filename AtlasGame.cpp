@@ -145,7 +145,7 @@ int main() {
     node* head = NULL;
     string value;
 
-    cout << "Welcome to our Project:'Atlas Game' made by 'Rushi','Tanish','Vivek' " << endl
+    cout << "Welcome to our Project:'Atlas Game' made by 'Rushi' " << endl
          << "There are some Rules to maintain." << endl;
     cout << "Rule 1: Make sure that first alphabet of new Country or state or city name must be same as last alphabet of previous Country or state or city name ." << endl;
     cout << "Rule 2: Make sure that the same name should not repeat." << endl;
